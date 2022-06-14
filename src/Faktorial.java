@@ -1,8 +1,7 @@
 
 public class Faktorial {
 
-
-    int[] factory1( int n) {
+    int[] factory1(int n) {
         int[] fiboarr = new int[n];
         fiboarr[0] = 1;
         int i = 1;
@@ -12,8 +11,6 @@ public class Faktorial {
         }
         return fiboarr;
     }
-
-
 
     int[] factory2(int n) {
         int[] fiboarr = new int[n];
@@ -26,8 +23,6 @@ public class Faktorial {
         return fiboarr;
     }
 
-
-
     int[] factory3(int n) {
         int[] fiboarr = new int[n];
         fiboarr[0] = 1;
@@ -36,7 +31,4 @@ public class Faktorial {
         }
         return fiboarr;
     }
-
-
-
 }
