@@ -22,7 +22,7 @@ public class Faktorial {
         } while ((n > i));
         return fiboarr;
     }
-
+/**/
     int[] factory3(int n) {
         int[] fiboarr = new int[n];
         fiboarr[0] = 1;

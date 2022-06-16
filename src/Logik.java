@@ -23,7 +23,7 @@ public class Logik {
                         int[] res3 = fibo3.fibonacci3(n);
                         dimm = res3;
                         break;
-                }
+                }/**/
                 break;
             case 2:
                 switch (loopType) {

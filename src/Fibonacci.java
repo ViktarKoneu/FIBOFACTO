@@ -11,7 +11,7 @@ public class Fibonacci {
         }
         return fiboarr;
     }
-
+/**/
     int[] fibonacci2(int n) {
         int[] fiboarr = new int[n];
         fiboarr[0] = 0;
